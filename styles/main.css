@@ -232,7 +232,8 @@ button:focus {
 
 .gallery__caption {
   margin: 12px 0 35px;
-  font-weight: 500; }
+  font-weight: 500;
+  display: block; }
 
 .gallery__button {
   margin: 44px auto 0; }
